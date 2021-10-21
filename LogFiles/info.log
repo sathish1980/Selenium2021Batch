@@ -1715,3 +1715,1007 @@ Session ID: e5d974eea86d109f46e64ab06d817e87
 2021-10-18 18:03:41,121 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2021-10-18 18:03:41,122 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2021-10-18 18:03:41,122 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:16:12,861 INFO  class ~ before launch
+2021-10-19 08:16:15,311 INFO  class ~ after launch
+2021-10-19 08:16:16,356 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:17,216 DEBUG class ~ browser intialize
+2021-10-19 08:16:17,216 INFO  class ~ info log
+2021-10-19 08:16:19,363 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:22,366 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:24,221 DEBUG class ~ from dropdown clicked
+2021-10-19 08:16:24,882 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:16:24,882 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:16:27,041 DEBUG class ~ To dropdown clicked
+2021-10-19 08:16:27,871 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:16:27,871 INFO  class ~ To Value clicked - info
+2021-10-19 08:16:27,871 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:16:29,429 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:16:32,958 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bdb64d832f2e4b9c8e4b5b7cf83eca48
+2021-10-19 08:16:36,274 DEBUG class ~ from dropdown clicked
+2021-10-19 08:16:36,950 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:16:36,950 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:16:39,283 DEBUG class ~ To dropdown clicked
+2021-10-19 08:16:40,221 DEBUG class ~ To Value clicked: SFO
+2021-10-19 08:16:40,222 INFO  class ~ To Value clicked - info
+2021-10-19 08:16:40,222 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:16:41,760 DEBUG class ~ Date Selected
+2021-10-19 08:16:41,760 ERROR class ~ Date Selected
+2021-10-19 08:16:41,760 FATAL class ~ Date Selected -fatal
+2021-10-19 08:16:41,760 WARN  class ~ Date Selected -warning
+2021-10-19 08:16:41,760 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:16:55,567 DEBUG class ~ from dropdown clicked
+2021-10-19 08:16:56,250 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:16:56,250 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:16:58,396 DEBUG class ~ To dropdown clicked
+2021-10-19 08:16:59,330 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:16:59,330 INFO  class ~ To Value clicked - info
+2021-10-19 08:16:59,330 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:17:00,927 DEBUG class ~ Date Selected
+2021-10-19 08:17:00,927 ERROR class ~ Date Selected
+2021-10-19 08:17:00,927 FATAL class ~ Date Selected -fatal
+2021-10-19 08:17:00,927 WARN  class ~ Date Selected -warning
+2021-10-19 08:17:00,927 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:17:08,337 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:17:08,338 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:17:08,340 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:17:08,341 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:17:08,341 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:20:42,722 INFO  class ~ before launch
+2021-10-19 08:20:43,386 INFO  class ~ after launch
+2021-10-19 08:20:44,786 DEBUG class ~ browser intialize
+2021-10-19 08:20:44,788 INFO  class ~ info log
+2021-10-19 08:20:54,310 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:20:57,317 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:21:00,339 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:21:01,202 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:21:01,203 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:21:01,205 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:21:01,206 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:21:01,206 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:22:27,976 INFO  class ~ before launch
+2021-10-19 08:22:28,607 INFO  class ~ after launch
+2021-10-19 08:22:37,331 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:40,353 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:43,372 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:50,323 DEBUG class ~ browser intialize
+2021-10-19 08:22:50,323 INFO  class ~ info log
+2021-10-19 08:26:08,623 INFO  class ~ before launch
+2021-10-19 08:26:09,395 INFO  class ~ after launch
+2021-10-19 08:26:45,753 INFO  class ~ before launch
+2021-10-19 08:26:46,456 INFO  class ~ after launch
+2021-10-19 08:28:02,343 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:05,354 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:08,376 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:34,128 DEBUG class ~ browser intialize
+2021-10-19 08:28:34,501 INFO  class ~ info log
+2021-10-19 08:29:59,219 INFO  class ~ before launch
+2021-10-19 08:29:59,865 INFO  class ~ after launch
+2021-10-19 08:30:13,750 DEBUG class ~ browser intialize
+2021-10-19 08:30:13,903 INFO  class ~ info log
+2021-10-19 08:32:21,840 INFO  class ~ before launch
+2021-10-19 08:32:22,434 INFO  class ~ after launch
+2021-10-19 08:32:29,694 DEBUG class ~ browser intialize
+2021-10-19 08:32:32,903 INFO  class ~ info log
+2021-10-19 08:33:46,072 INFO  class ~ before launch
+2021-10-19 08:33:46,705 INFO  class ~ after launch
+2021-10-19 08:33:51,748 DEBUG class ~ browser intialize
+2021-10-19 08:33:52,839 INFO  class ~ info log
+2021-10-19 08:34:13,353 DEBUG class ~ from dropdown clicked
+2021-10-19 08:34:14,948 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:34:19,617 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:34:21,835 DEBUG class ~ To dropdown clicked
+2021-10-19 08:34:22,633 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:34:22,633 INFO  class ~ To Value clicked - info
+2021-10-19 08:34:22,633 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:34:53,175 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:34:56,585 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a873517c5af74f9f9a09585172dcdd
+2021-10-19 08:35:09,539 DEBUG class ~ from dropdown clicked
+2021-10-19 08:35:10,847 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:35:10,847 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:35:13,294 DEBUG class ~ To dropdown clicked
+2021-10-19 08:35:13,323 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:35:15,007 DEBUG class ~ Date Selected
+2021-10-19 08:35:15,007 ERROR class ~ Date Selected
+2021-10-19 08:35:15,008 FATAL class ~ Date Selected -fatal
+2021-10-19 08:35:15,008 WARN  class ~ Date Selected -warning
+2021-10-19 08:35:15,008 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:35:29,317 DEBUG class ~ from dropdown clicked
+2021-10-19 08:35:29,860 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:35:29,860 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:35:32,027 DEBUG class ~ To dropdown clicked
+2021-10-19 08:35:33,014 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:35:33,014 INFO  class ~ To Value clicked - info
+2021-10-19 08:35:33,014 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:35:34,791 DEBUG class ~ Date Selected
+2021-10-19 08:35:34,791 ERROR class ~ Date Selected
+2021-10-19 08:35:34,791 FATAL class ~ Date Selected -fatal
+2021-10-19 08:35:34,791 WARN  class ~ Date Selected -warning
+2021-10-19 08:35:34,791 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:35:42,376 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:35:42,377 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:35:42,379 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:35:42,380 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:35:42,380 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:36:11,502 INFO  class ~ before launch
+2021-10-19 08:36:12,176 INFO  class ~ after launch
+2021-10-19 08:36:13,642 DEBUG class ~ browser intialize
+2021-10-19 08:36:13,642 INFO  class ~ info log
+2021-10-19 08:36:25,262 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:25,462 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:29,729 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:31,049 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:34,156 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:38,578 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:36:38,579 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:36:38,580 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:36:38,581 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:36:38,581 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:37:34,432 INFO  class ~ before launch
+2021-10-19 08:37:35,127 INFO  class ~ after launch
+2021-10-19 08:37:36,610 DEBUG class ~ browser intialize
+2021-10-19 08:37:36,610 INFO  class ~ info log
+2021-10-19 08:37:48,122 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:48,480 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:52,548 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:53,901 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:56,992 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:38:01,352 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:38:01,354 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:38:01,355 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:38:01,356 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:38:01,357 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:38:15,747 INFO  class ~ before launch
+2021-10-19 08:38:16,426 INFO  class ~ after launch
+2021-10-19 08:38:17,816 DEBUG class ~ browser intialize
+2021-10-19 08:38:17,816 INFO  class ~ info log
+2021-10-19 08:38:25,736 DEBUG class ~ from dropdown clicked
+2021-10-19 08:38:25,757 DEBUG class ~ from dropdown clicked
+2021-10-19 08:38:26,348 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:38:26,348 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:38:26,424 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:38:26,424 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:38:28,541 DEBUG class ~ To dropdown clicked
+2021-10-19 08:38:28,634 DEBUG class ~ To dropdown clicked
+2021-10-19 08:38:29,528 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:38:29,528 INFO  class ~ To Value clicked - info
+2021-10-19 08:38:29,528 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:38:29,623 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:38:29,623 INFO  class ~ To Value clicked - info
+2021-10-19 08:38:29,623 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:38:31,484 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:38:31,653 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:38:34,872 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52726}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e855a59f8b637622614f16577326506
+2021-10-19 08:38:35,090 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 401). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:55603}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3e0f179a7cf66b4052d944a661de6db
+2021-10-19 08:38:38,314 DEBUG class ~ from dropdown clicked
+2021-10-19 08:38:38,531 DEBUG class ~ from dropdown clicked
+2021-10-19 08:38:39,545 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:38:39,545 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:38:39,765 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:38:39,765 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:38:41,890 DEBUG class ~ To dropdown clicked
+2021-10-19 08:38:41,918 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:38:42,194 DEBUG class ~ To dropdown clicked
+2021-10-19 08:38:42,230 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:38:43,391 DEBUG class ~ Date Selected
+2021-10-19 08:38:43,392 ERROR class ~ Date Selected
+2021-10-19 08:38:43,392 FATAL class ~ Date Selected -fatal
+2021-10-19 08:38:43,392 WARN  class ~ Date Selected -warning
+2021-10-19 08:38:43,392 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:38:43,678 DEBUG class ~ Date Selected
+2021-10-19 08:38:43,678 ERROR class ~ Date Selected
+2021-10-19 08:38:43,679 FATAL class ~ Date Selected -fatal
+2021-10-19 08:38:43,679 WARN  class ~ Date Selected -warning
+2021-10-19 08:38:43,679 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:39:00,481 DEBUG class ~ from dropdown clicked
+2021-10-19 08:39:01,193 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:39:01,193 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:39:01,397 DEBUG class ~ from dropdown clicked
+2021-10-19 08:39:01,988 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:39:01,989 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:39:03,338 DEBUG class ~ To dropdown clicked
+2021-10-19 08:39:04,182 DEBUG class ~ To dropdown clicked
+2021-10-19 08:39:04,355 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:39:04,355 INFO  class ~ To Value clicked - info
+2021-10-19 08:39:04,355 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:39:05,464 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:39:05,464 INFO  class ~ To Value clicked - info
+2021-10-19 08:39:05,464 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:39:06,284 DEBUG class ~ Date Selected
+2021-10-19 08:39:06,284 ERROR class ~ Date Selected
+2021-10-19 08:39:06,284 FATAL class ~ Date Selected -fatal
+2021-10-19 08:39:06,284 WARN  class ~ Date Selected -warning
+2021-10-19 08:39:06,284 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:39:07,152 DEBUG class ~ Date Selected
+2021-10-19 08:39:07,152 ERROR class ~ Date Selected
+2021-10-19 08:39:07,153 FATAL class ~ Date Selected -fatal
+2021-10-19 08:39:07,153 WARN  class ~ Date Selected -warning
+2021-10-19 08:39:07,153 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:39:15,626 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:39:15,627 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:39:15,628 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:39:15,629 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:39:15,630 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:43:07,397 INFO  class ~ before launch
+2021-10-19 08:43:08,076 INFO  class ~ after launch
+2021-10-19 08:43:09,490 DEBUG class ~ browser intialize
+2021-10-19 08:43:09,491 INFO  class ~ info log
+2021-10-19 08:43:54,605 INFO  class ~ before launch
+2021-10-19 08:43:55,277 INFO  class ~ after launch
+2021-10-19 08:43:56,752 DEBUG class ~ browser intialize
+2021-10-19 08:43:56,752 INFO  class ~ info log
+2021-10-19 08:44:46,519 INFO  class ~ before launch
+2021-10-19 08:44:47,199 INFO  class ~ after launch
+2021-10-19 08:44:48,669 DEBUG class ~ browser intialize
+2021-10-19 08:44:48,669 INFO  class ~ info log
+2021-10-19 08:44:56,743 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:44:59,764 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:45:02,783 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:45:03,601 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:45:03,602 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:45:03,604 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:45:03,605 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:45:03,606 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:46:51,903 INFO  class ~ before launch
+2021-10-19 08:46:52,567 INFO  class ~ after launch
+2021-10-19 08:46:54,027 DEBUG class ~ browser intialize
+2021-10-19 08:46:54,027 INFO  class ~ info log
+2021-10-19 08:47:01,900 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:02,384 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:02,602 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:47:02,602 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:03,236 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:47:03,236 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:04,805 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:05,443 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:05,719 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:47:05,719 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:05,719 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:06,474 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:47:06,474 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:06,474 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:07,619 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:08,195 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:11,029 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64586}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85d7d98b6a29f17cbf37f86a9f4b6888
+2021-10-19 08:47:11,581 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53826}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d177d8cfdbef21c5afc9d2c965db685f
+2021-10-19 08:47:14,405 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:15,054 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:15,163 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:47:15,164 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:15,715 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:47:15,715 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:17,565 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:18,100 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:18,567 DEBUG class ~ To Value clicked: SFO
+2021-10-19 08:47:18,568 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:18,568 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:19,244 DEBUG class ~ To Value clicked: SFO
+2021-10-19 08:47:19,244 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:19,244 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:20,034 DEBUG class ~ Date Selected
+2021-10-19 08:47:20,034 ERROR class ~ Date Selected
+2021-10-19 08:47:20,034 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:20,034 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:20,034 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:20,752 DEBUG class ~ Date Selected
+2021-10-19 08:47:20,752 ERROR class ~ Date Selected
+2021-10-19 08:47:20,752 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:20,752 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:20,752 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:33,535 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:34,211 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:47:34,211 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:35,246 DEBUG class ~ from dropdown clicked
+2021-10-19 08:47:36,011 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:47:36,011 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:47:36,392 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:37,372 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:47:37,372 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:37,372 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:38,182 DEBUG class ~ To dropdown clicked
+2021-10-19 08:47:39,029 DEBUG class ~ Date Selected
+2021-10-19 08:47:39,029 ERROR class ~ Date Selected
+2021-10-19 08:47:39,029 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:39,030 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:39,030 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:39,335 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:47:39,336 INFO  class ~ To Value clicked - info
+2021-10-19 08:47:39,336 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:47:41,053 DEBUG class ~ Date Selected
+2021-10-19 08:47:41,054 ERROR class ~ Date Selected
+2021-10-19 08:47:41,054 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:41,054 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:41,054 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:47:52,497 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:55,515 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:58,523 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:59,821 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:47:59,822 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:47:59,823 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:47:59,823 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:47:59,823 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:57:19,710 INFO  class ~ before launch
+2021-10-19 08:57:20,368 INFO  class ~ after launch
+2021-10-19 08:57:21,927 DEBUG class ~ browser intialize
+2021-10-19 08:57:21,928 INFO  class ~ info log
+2021-10-19 08:57:29,285 DEBUG class ~ from dropdown clicked
+2021-10-19 08:57:29,869 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:57:29,869 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:57:32,031 DEBUG class ~ To dropdown clicked
+2021-10-19 08:57:32,825 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:57:32,825 INFO  class ~ To Value clicked - info
+2021-10-19 08:57:32,825 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:57:34,452 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:57:37,742 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 82f0e8775ef1182b6333a18c47a68d16
+2021-10-19 08:57:41,101 DEBUG class ~ from dropdown clicked
+2021-10-19 08:57:42,399 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:57:42,399 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:57:44,761 DEBUG class ~ To dropdown clicked
+2021-10-19 08:57:44,789 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:57:46,513 DEBUG class ~ Date Selected
+2021-10-19 08:57:46,513 ERROR class ~ Date Selected
+2021-10-19 08:57:46,513 FATAL class ~ Date Selected -fatal
+2021-10-19 08:57:46,513 WARN  class ~ Date Selected -warning
+2021-10-19 08:57:46,514 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:58:00,561 DEBUG class ~ from dropdown clicked
+2021-10-19 08:58:01,115 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:58:01,115 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:58:03,273 DEBUG class ~ To dropdown clicked
+2021-10-19 08:58:04,268 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:58:04,269 INFO  class ~ To Value clicked - info
+2021-10-19 08:58:04,269 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:58:05,799 DEBUG class ~ Date Selected
+2021-10-19 08:58:05,799 ERROR class ~ Date Selected
+2021-10-19 08:58:05,799 FATAL class ~ Date Selected -fatal
+2021-10-19 08:58:05,799 WARN  class ~ Date Selected -warning
+2021-10-19 08:58:05,799 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:58:13,427 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:58:13,429 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:58:13,430 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:58:13,431 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:58:13,432 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 08:59:08,822 DEBUG class ~ from dropdown clicked
+2021-10-19 08:59:09,478 DEBUG class ~ from Value Selected: BKK
+2021-10-19 08:59:09,478 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:59:11,669 DEBUG class ~ To dropdown clicked
+2021-10-19 08:59:12,549 DEBUG class ~ To Value clicked: MAA
+2021-10-19 08:59:12,550 INFO  class ~ To Value clicked - info
+2021-10-19 08:59:12,550 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:59:14,217 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:59:17,618 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:55639}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6733a7ece26f4047eb937fdb4ce9acb8
+2021-10-19 08:59:21,006 DEBUG class ~ from dropdown clicked
+2021-10-19 08:59:21,656 DEBUG class ~ from Value Selected: GOI
+2021-10-19 08:59:21,656 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:59:24,048 DEBUG class ~ To dropdown clicked
+2021-10-19 08:59:25,026 DEBUG class ~ To Value clicked: SFO
+2021-10-19 08:59:25,026 INFO  class ~ To Value clicked - info
+2021-10-19 08:59:25,026 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:59:26,610 DEBUG class ~ Date Selected
+2021-10-19 08:59:26,610 ERROR class ~ Date Selected
+2021-10-19 08:59:26,610 FATAL class ~ Date Selected -fatal
+2021-10-19 08:59:26,610 WARN  class ~ Date Selected -warning
+2021-10-19 08:59:26,610 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:59:40,310 DEBUG class ~ from dropdown clicked
+2021-10-19 08:59:41,534 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 08:59:41,535 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 08:59:43,716 DEBUG class ~ To dropdown clicked
+2021-10-19 08:59:44,772 DEBUG class ~ To Value clicked: HKG
+2021-10-19 08:59:44,772 INFO  class ~ To Value clicked - info
+2021-10-19 08:59:44,772 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 08:59:46,282 DEBUG class ~ Date Selected
+2021-10-19 08:59:46,282 ERROR class ~ Date Selected
+2021-10-19 08:59:46,282 FATAL class ~ Date Selected -fatal
+2021-10-19 08:59:46,282 WARN  class ~ Date Selected -warning
+2021-10-19 08:59:46,282 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 08:59:54,827 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 08:59:54,829 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 08:59:54,831 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 08:59:54,832 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 08:59:54,832 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 09:02:31,580 INFO  class ~ before launch
+2021-10-19 09:02:32,276 INFO  class ~ after launch
+2021-10-19 09:02:33,667 DEBUG class ~ browser intialize
+2021-10-19 09:02:33,667 INFO  class ~ info log
+2021-10-19 09:02:41,282 DEBUG class ~ from dropdown clicked
+2021-10-19 09:02:41,412 DEBUG class ~ from dropdown clicked
+2021-10-19 09:02:41,964 DEBUG class ~ from Value Selected: BKK
+2021-10-19 09:02:41,964 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:02:42,119 DEBUG class ~ from Value Selected: BKK
+2021-10-19 09:02:42,119 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:02:44,214 DEBUG class ~ To dropdown clicked
+2021-10-19 09:02:44,406 DEBUG class ~ To dropdown clicked
+2021-10-19 09:02:45,458 DEBUG class ~ To Value clicked: MAA
+2021-10-19 09:02:45,458 INFO  class ~ To Value clicked - info
+2021-10-19 09:02:45,458 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:02:45,683 DEBUG class ~ To Value clicked: MAA
+2021-10-19 09:02:45,683 INFO  class ~ To Value clicked - info
+2021-10-19 09:02:45,683 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:02:47,428 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:02:47,562 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:02:50,844 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2c28e62e9d3130dcb7de07d13134d96
+2021-10-19 09:02:50,908 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 408). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:62031}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 919da6890c5047ff09f4ca441d3dc20a
+2021-10-19 09:02:54,274 DEBUG class ~ from dropdown clicked
+2021-10-19 09:02:54,344 DEBUG class ~ from dropdown clicked
+2021-10-19 09:02:55,085 DEBUG class ~ from Value Selected: GOI
+2021-10-19 09:02:55,085 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:02:55,483 DEBUG class ~ from Value Selected: GOI
+2021-10-19 09:02:55,483 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:02:57,459 DEBUG class ~ To dropdown clicked
+2021-10-19 09:02:57,907 DEBUG class ~ To dropdown clicked
+2021-10-19 09:02:58,520 DEBUG class ~ To Value clicked: SFO
+2021-10-19 09:02:58,520 INFO  class ~ To Value clicked - info
+2021-10-19 09:02:58,520 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:02:58,887 DEBUG class ~ To Value clicked: SFO
+2021-10-19 09:02:58,887 INFO  class ~ To Value clicked - info
+2021-10-19 09:02:58,887 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:03:00,242 DEBUG class ~ Date Selected
+2021-10-19 09:03:00,243 ERROR class ~ Date Selected
+2021-10-19 09:03:00,243 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:00,243 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:00,243 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:03:00,363 DEBUG class ~ Date Selected
+2021-10-19 09:03:00,363 ERROR class ~ Date Selected
+2021-10-19 09:03:00,364 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:00,364 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:00,364 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:03:13,999 DEBUG class ~ from dropdown clicked
+2021-10-19 09:03:14,594 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 09:03:14,594 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:03:15,415 DEBUG class ~ from dropdown clicked
+2021-10-19 09:03:16,602 DEBUG class ~ from Value Selected: PNQ
+2021-10-19 09:03:16,603 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-19 09:03:16,807 DEBUG class ~ To dropdown clicked
+2021-10-19 09:03:17,760 DEBUG class ~ To Value clicked: HKG
+2021-10-19 09:03:17,760 INFO  class ~ To Value clicked - info
+2021-10-19 09:03:17,760 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:03:18,795 DEBUG class ~ To dropdown clicked
+2021-10-19 09:03:19,497 DEBUG class ~ Date Selected
+2021-10-19 09:03:19,497 ERROR class ~ Date Selected
+2021-10-19 09:03:19,497 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:19,497 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:19,497 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:03:19,863 DEBUG class ~ To Value clicked: HKG
+2021-10-19 09:03:19,864 INFO  class ~ To Value clicked - info
+2021-10-19 09:03:19,864 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-19 09:03:21,351 DEBUG class ~ Date Selected
+2021-10-19 09:03:21,351 ERROR class ~ Date Selected
+2021-10-19 09:03:21,351 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:21,351 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:21,351 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-19 09:03:30,019 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 09:03:30,020 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 09:03:30,021 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 09:03:30,023 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 09:03:30,023 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 17:15:50,309 INFO  class ~ before launch
+2021-10-19 17:15:51,592 INFO  class ~ after launch
+2021-10-19 17:15:53,031 DEBUG class ~ browser intialize
+2021-10-19 17:15:53,031 INFO  class ~ info log
+2021-10-19 17:16:05,939 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 17:16:05,941 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 17:16:05,942 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 17:16:05,943 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 17:16:05,943 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 17:16:20,999 INFO  class ~ before launch
+2021-10-19 17:16:21,696 INFO  class ~ after launch
+2021-10-19 17:16:23,155 DEBUG class ~ browser intialize
+2021-10-19 17:16:23,155 INFO  class ~ info log
+2021-10-19 17:16:37,830 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 17:16:37,831 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 17:16:37,833 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 17:16:37,834 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 17:16:37,834 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-19 17:21:33,796 INFO  class ~ before launch
+2021-10-19 17:21:33,990 INFO  class ~ after launch
+2021-10-19 17:21:35,512 DEBUG class ~ browser intialize
+2021-10-19 17:21:35,513 INFO  class ~ info log
+2021-10-19 17:21:49,925 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-19 17:21:49,926 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-19 17:21:49,927 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-19 17:21:49,928 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-19 17:21:49,929 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 22:50:15,680 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 22:50:15,682 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 22:50:15,684 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 22:50:15,685 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 22:50:15,685 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 22:58:15,465 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 22:58:15,466 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 22:58:15,467 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 22:58:15,467 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 22:58:15,467 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:00:58,771 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:00:58,773 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:00:58,774 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:00:58,777 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:00:58,777 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:16:15,923 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:16:15,924 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:16:15,926 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:16:15,927 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:16:15,927 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:20:41,533 INFO  class ~ before launch
+2021-10-21 23:20:42,694 INFO  class ~ after launch
+2021-10-21 23:20:53,930 DEBUG class ~ browser intialize
+2021-10-21 23:20:53,930 INFO  class ~ info log
+2021-10-21 23:21:41,049 DEBUG class ~ from dropdown clicked
+2021-10-21 23:21:41,453 DEBUG class ~ from dropdown clicked
+2021-10-21 23:21:42,157 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:21:42,158 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:21:42,591 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:21:42,591 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:21:44,313 DEBUG class ~ To dropdown clicked
+2021-10-21 23:21:44,776 DEBUG class ~ To dropdown clicked
+2021-10-21 23:21:45,151 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:21:45,151 INFO  class ~ To Value clicked - info
+2021-10-21 23:21:45,151 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:21:45,675 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:21:45,675 INFO  class ~ To Value clicked - info
+2021-10-21 23:21:45,675 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:21:46,873 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:21:47,189 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:21:50,416 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 404). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58508}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0fd3c703efc7f6c63f4ee5a3639a1f7e
+2021-10-21 23:21:50,467 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:52142}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cee84eb53c4836782976b780c808bed
+2021-10-21 23:21:53,876 DEBUG class ~ from dropdown clicked
+2021-10-21 23:21:53,959 DEBUG class ~ from dropdown clicked
+2021-10-21 23:21:55,117 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:21:55,117 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:21:55,190 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:21:55,191 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:21:57,546 DEBUG class ~ To dropdown clicked
+2021-10-21 23:21:57,625 DEBUG class ~ To dropdown clicked
+2021-10-21 23:21:58,522 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:21:58,522 INFO  class ~ To Value clicked - info
+2021-10-21 23:21:58,522 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:21:58,667 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:21:58,667 INFO  class ~ To Value clicked - info
+2021-10-21 23:21:58,667 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:22:00,036 DEBUG class ~ Date Selected
+2021-10-21 23:22:00,036 ERROR class ~ Date Selected
+2021-10-21 23:22:00,036 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:00,036 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:00,036 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:22:00,194 DEBUG class ~ Date Selected
+2021-10-21 23:22:00,195 ERROR class ~ Date Selected
+2021-10-21 23:22:00,195 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:00,195 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:00,195 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:22:12,425 DEBUG class ~ from dropdown clicked
+2021-10-21 23:22:12,956 DEBUG class ~ from dropdown clicked
+2021-10-21 23:22:13,092 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:22:13,092 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:22:13,583 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:22:13,583 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:22:15,263 DEBUG class ~ To dropdown clicked
+2021-10-21 23:22:15,774 DEBUG class ~ To dropdown clicked
+2021-10-21 23:22:16,296 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:22:16,296 INFO  class ~ To Value clicked - info
+2021-10-21 23:22:16,296 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:22:16,924 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:22:16,924 INFO  class ~ To Value clicked - info
+2021-10-21 23:22:16,924 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:22:18,016 DEBUG class ~ Date Selected
+2021-10-21 23:22:18,016 ERROR class ~ Date Selected
+2021-10-21 23:22:18,016 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:18,016 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:18,016 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:22:18,466 DEBUG class ~ Date Selected
+2021-10-21 23:22:18,466 ERROR class ~ Date Selected
+2021-10-21 23:22:18,466 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:18,466 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:18,466 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:22:27,923 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:22:27,924 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:22:27,927 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:22:27,928 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:22:27,928 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:23:39,603 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:23:39,604 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:23:39,606 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:23:39,607 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:23:39,607 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:25:08,964 DEBUG class ~ from dropdown clicked
+2021-10-21 23:25:09,676 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:25:09,676 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:25:11,857 DEBUG class ~ To dropdown clicked
+2021-10-21 23:25:12,661 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:25:12,661 INFO  class ~ To Value clicked - info
+2021-10-21 23:25:12,661 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:25:14,366 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:25:17,675 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53538}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b2788da747ec8a76961b00b2e1c23fb
+2021-10-21 23:25:27,203 DEBUG class ~ from dropdown clicked
+2021-10-21 23:25:28,981 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="pushRight font14 lightGreyText latoBold">...</div> is not clickable at point (456, 547). Other element would receive the click: <div class="langCard  fixedCard bounceAni">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56113}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dd1cf98111d943a854288353a6bdbd8e
+2021-10-21 23:25:38,467 DEBUG class ~ from dropdown clicked
+2021-10-21 23:25:39,202 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:25:39,202 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:25:41,351 DEBUG class ~ To dropdown clicked
+2021-10-21 23:25:42,453 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:25:42,453 INFO  class ~ To Value clicked - info
+2021-10-21 23:25:42,453 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:25:44,098 DEBUG class ~ Date Selected
+2021-10-21 23:25:44,098 ERROR class ~ Date Selected
+2021-10-21 23:25:44,098 FATAL class ~ Date Selected -fatal
+2021-10-21 23:25:44,098 WARN  class ~ Date Selected -warning
+2021-10-21 23:25:44,098 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:26:44,951 INFO  class ~ before launch
+2021-10-21 23:26:45,113 INFO  class ~ after launch
+2021-10-21 23:26:46,662 DEBUG class ~ browser intialize
+2021-10-21 23:26:46,662 INFO  class ~ info log
+2021-10-21 23:26:57,716 DEBUG class ~ from dropdown clicked
+2021-10-21 23:26:58,381 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:26:58,381 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:27:00,510 DEBUG class ~ from dropdown clicked
+2021-10-21 23:27:00,583 DEBUG class ~ To dropdown clicked
+2021-10-21 23:27:01,312 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:27:01,312 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:27:01,633 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:27:01,633 INFO  class ~ To Value clicked - info
+2021-10-21 23:27:01,633 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:27:03,214 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:27:03,484 DEBUG class ~ To dropdown clicked
+2021-10-21 23:27:04,335 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:27:04,335 INFO  class ~ To Value clicked - info
+2021-10-21 23:27:04,335 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:27:05,889 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:27:06,382 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bee3215888984df25f15d2cbaf6f188f
+2021-10-21 23:27:06,388 INFO  class ~ before launch
+2021-10-21 23:27:06,404 INFO  class ~ after launch
+2021-10-21 23:27:07,631 DEBUG class ~ browser intialize
+2021-10-21 23:27:07,631 INFO  class ~ info log
+2021-10-21 23:27:09,383 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53675}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7c400209aa100bf9b070dac65841b16
+2021-10-21 23:27:14,471 DEBUG class ~ from dropdown clicked
+2021-10-21 23:27:16,164 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="pushRight font14 lightGreyText latoBold">...</div> is not clickable at point (456, 547). Other element would receive the click: <div class="langCard  fixedCard bounceAni">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61156}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 93f833831e741a110a71c5e74416b080
+2021-10-21 23:27:16,168 INFO  class ~ before launch
+2021-10-21 23:27:16,185 INFO  class ~ after launch
+2021-10-21 23:27:17,520 DEBUG class ~ browser intialize
+2021-10-21 23:27:17,520 INFO  class ~ info log
+2021-10-21 23:27:19,714 DEBUG class ~ from dropdown clicked
+2021-10-21 23:27:21,325 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:27:21,325 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:27:50,917 INFO  class ~ before launch
+2021-10-21 23:27:51,097 INFO  class ~ after launch
+2021-10-21 23:27:52,698 DEBUG class ~ browser intialize
+2021-10-21 23:27:52,698 INFO  class ~ info log
+2021-10-21 23:28:04,558 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:04,601 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:05,193 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:28:05,193 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:05,276 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:28:05,276 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:07,372 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:07,445 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:08,246 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:28:08,246 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:08,246 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:08,323 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:28:08,323 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:08,323 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:09,910 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:09,995 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:13,002 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c24978ac4fee44de322a4d1630814ad0
+2021-10-21 23:28:13,422 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 401). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58593}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9380761bd1e9a9191f9f5611270eb1dd
+2021-10-21 23:28:16,471 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:16,930 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:17,221 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:28:17,221 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:17,596 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:28:17,596 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:19,622 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:20,003 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:20,580 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:28:20,580 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:20,580 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:21,014 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:28:21,014 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:21,014 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:21,997 DEBUG class ~ Date Selected
+2021-10-21 23:28:21,997 ERROR class ~ Date Selected
+2021-10-21 23:28:21,998 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:21,998 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:21,998 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:22,388 DEBUG class ~ Date Selected
+2021-10-21 23:28:22,388 ERROR class ~ Date Selected
+2021-10-21 23:28:22,388 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:22,388 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:22,388 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:36,056 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:36,486 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:36,803 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:28:36,803 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:37,232 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:28:37,232 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:37,638 DEBUG class ~ from dropdown clicked
+2021-10-21 23:28:38,439 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:28:38,440 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:28:38,981 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:39,403 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:40,031 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:28:40,031 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:40,031 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:40,551 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:28:40,551 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:40,551 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:40,664 DEBUG class ~ To dropdown clicked
+2021-10-21 23:28:41,738 DEBUG class ~ Date Selected
+2021-10-21 23:28:41,738 ERROR class ~ Date Selected
+2021-10-21 23:28:41,738 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:41,738 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:41,738 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:41,919 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:28:41,919 INFO  class ~ To Value clicked - info
+2021-10-21 23:28:41,920 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:28:42,349 DEBUG class ~ Date Selected
+2021-10-21 23:28:42,349 ERROR class ~ Date Selected
+2021-10-21 23:28:42,349 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:42,349 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:42,349 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:43,483 DEBUG class ~ Date Selected
+2021-10-21 23:28:43,483 ERROR class ~ Date Selected
+2021-10-21 23:28:43,484 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:43,484 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:43,484 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:28:52,193 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:28:52,195 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:28:52,197 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:28:52,199 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:28:52,199 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 23:29:59,077 INFO  class ~ before launch
+2021-10-21 23:29:59,254 INFO  class ~ after launch
+2021-10-21 23:30:00,889 DEBUG class ~ browser intialize
+2021-10-21 23:30:00,889 INFO  class ~ info log
+2021-10-21 23:30:09,383 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:10,070 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:30:10,070 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:10,553 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:11,226 DEBUG class ~ from Value Selected: BKK
+2021-10-21 23:30:11,226 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:12,250 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:13,118 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:30:13,118 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:13,119 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:13,421 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:14,332 DEBUG class ~ To Value clicked: MAA
+2021-10-21 23:30:14,332 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:14,332 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:14,902 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:16,064 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:18,122 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (600, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61455}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8fd7345cc4367a2cda3022997393e3a
+2021-10-21 23:30:19,423 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:59186}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ccea4766a996d54ee71aeae7056dc7c4
+2021-10-21 23:30:21,609 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:22,242 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:30:22,242 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:22,902 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:24,095 DEBUG class ~ from Value Selected: GOI
+2021-10-21 23:30:24,095 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:24,634 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:25,523 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:30:25,523 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:25,523 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:26,484 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:26,881 DEBUG class ~ Date Selected
+2021-10-21 23:30:26,881 ERROR class ~ Date Selected
+2021-10-21 23:30:26,882 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:26,882 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:26,882 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:27,422 DEBUG class ~ To Value clicked: SFO
+2021-10-21 23:30:27,422 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:27,422 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:29,073 DEBUG class ~ Date Selected
+2021-10-21 23:30:29,073 ERROR class ~ Date Selected
+2021-10-21 23:30:29,073 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:29,073 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:29,073 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:39,430 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:40,035 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:30:40,035 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:41,835 DEBUG class ~ from dropdown clicked
+2021-10-21 23:30:42,190 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:42,500 DEBUG class ~ from Value Selected: PNQ
+2021-10-21 23:30:42,500 INFO  class ~ From list is clikced andpassed in tes case step
+2021-10-21 23:30:43,165 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:30:43,165 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:43,165 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:44,665 DEBUG class ~ To dropdown clicked
+2021-10-21 23:30:44,674 DEBUG class ~ Date Selected
+2021-10-21 23:30:44,675 ERROR class ~ Date Selected
+2021-10-21 23:30:44,675 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:44,675 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:44,675 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:45,714 DEBUG class ~ To Value clicked: HKG
+2021-10-21 23:30:45,714 INFO  class ~ To Value clicked - info
+2021-10-21 23:30:45,714 INFO  class ~ To list is clikced andpassed in tes case step
+2021-10-21 23:30:47,237 DEBUG class ~ Date Selected
+2021-10-21 23:30:47,237 ERROR class ~ Date Selected
+2021-10-21 23:30:47,237 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:47,237 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:47,237 INFO  class ~ Date is clikced and passed in tes case step
+2021-10-21 23:30:55,731 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-10-21 23:30:55,732 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-10-21 23:30:55,733 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 23:30:55,734 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 23:30:55,734 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

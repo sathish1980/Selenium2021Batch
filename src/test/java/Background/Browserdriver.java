@@ -9,6 +9,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
@@ -19,13 +25,24 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Browserdriver 
 {
 
-	public WebDriver driver;
+	public  ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
 	public static ExtentReports report;
 	public static ExtentTest test;
 	static String reportpath= System.getProperty("user.dir")+"\\Reports\\";
 	public static Logger logger = LogManager.getLogger("class");  
 	public String Browser_Name = null;
 	public String Browser_Version = null ;
+	
+	public void setdriver(WebDriver driver)
+	{
+		this.driver.set(driver);
+	}
+	
+	public WebDriver getdriver()
+	{
+		return this.driver.get();
+	}
+	
 	
 	public static void extreport()
 	{
@@ -54,22 +71,24 @@ public class Browserdriver
 		
 		//ChromeOptions c=new ChromeOptions();
 		//c.addArguments("--disable-notifications");
-		driver = new ChromeDriver();
-		Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
+		setdriver(new ChromeDriver());
+		/*Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
 		 Browser_Name = cap.getBrowserName();
-		 Browser_Version = cap.getVersion();
+		 Browser_Version = cap.getVersion();*/
 		logger.debug("browser intialize");
 		logger.info("info log");
 		}
 		else if(browser.equalsIgnoreCase("edge"))
 		{
-			System.setProperty("webdriver.edge.driver", 
-					"D:\\Software\\edgedriver_win64_93\\msedgedriver.exe");
-			driver = new EdgeDriver();
-			Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
+			//System.setProperty("webdriver.edge.driver", 
+				//	"D:\\Software\\edgedriver_win64_93\\msedgedriver.exe");
+			WebDriverManager.edgedriver().setup();
+			setdriver( new EdgeDriver());
+			maximize();
+		/*	Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
 			 Browser_Name = cap.getBrowserName();
 			 Browser_Version = cap.getVersion();
-			 System.out.println(Browser_Version);
+			 System.out.println(Browser_Version);*/
 		}
 	}
 	
@@ -81,6 +100,35 @@ public class Browserdriver
 	
 	public void maximize()
 	{
-		driver.manage().window().maximize();
+		getdriver().manage().window().maximize();
+	}
+	
+	@Parameters("browser")
+	@BeforeTest
+	public void launchurl(String browser)
+	{
+		browserselection(browser);
+		getdriver().get(urldata());
+		
+	}
+	
+	
+	@AfterTest
+	public void tear()
+	{
+		getdriver().quit();	
+	}
+	
+	@BeforeSuite
+	public void launch()
+	{
+		extreport();
+	}
+	
+	@AfterSuite
+	public void teardonw()
+	{
+		reportclose();
+		//getdriver().quit();
 	}
 }

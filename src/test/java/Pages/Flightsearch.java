@@ -22,6 +22,7 @@ public class Flightsearch extends commonsclass
 	@FindBy (xpath="//li[text()='Multi City']//span")
 	WebElement multiway;
 	String list_var= "(//div[@class='fsw_inner']//child::div)[1]";
+	
 	WebDriver driver;
 
 	
