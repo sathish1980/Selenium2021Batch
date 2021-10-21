@@ -585,3 +585,340 @@ Session ID: e5d974eea86d109f46e64ab06d817e87
 2021-10-18 18:03:32,169 ERROR class ~ Date Selected
 2021-10-18 18:03:32,169 FATAL class ~ Date Selected -fatal
 2021-10-18 18:03:32,169 WARN  class ~ Date Selected -warning
+2021-10-19 08:16:16,356 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:19,363 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:22,366 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:16:32,958 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bdb64d832f2e4b9c8e4b5b7cf83eca48
+2021-10-19 08:16:41,760 ERROR class ~ Date Selected
+2021-10-19 08:16:41,760 FATAL class ~ Date Selected -fatal
+2021-10-19 08:16:41,760 WARN  class ~ Date Selected -warning
+2021-10-19 08:17:00,927 ERROR class ~ Date Selected
+2021-10-19 08:17:00,927 FATAL class ~ Date Selected -fatal
+2021-10-19 08:17:00,927 WARN  class ~ Date Selected -warning
+2021-10-19 08:20:54,310 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:20:57,317 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:21:00,339 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:37,331 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:40,353 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:22:43,372 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:02,343 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:05,354 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:28:08,376 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:34:56,585 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a873517c5af74f9f9a09585172dcdd
+2021-10-19 08:35:15,007 ERROR class ~ Date Selected
+2021-10-19 08:35:15,008 FATAL class ~ Date Selected -fatal
+2021-10-19 08:35:15,008 WARN  class ~ Date Selected -warning
+2021-10-19 08:35:34,791 ERROR class ~ Date Selected
+2021-10-19 08:35:34,791 FATAL class ~ Date Selected -fatal
+2021-10-19 08:35:34,791 WARN  class ~ Date Selected -warning
+2021-10-19 08:36:25,262 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:25,462 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:29,729 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:31,049 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:36:34,156 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51820}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 389aa5da4d2b6c296918527b935120d2
+2021-10-19 08:37:48,122 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:48,480 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-cy="fromCity" id="fromCity" type="text" class="fsw_inputField lineHeight36 latoBlack font30" readonly="" value="Delhi"> is not clickable at point (329, 257). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:52,548 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:53,901 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:37:56,992 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <li data-cy="account" class="makeFlex hrtlCenter font10 makeRelative lhUser userLoggedOut">...</li> is not clickable at point (1121, 23). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:65304}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8beb0622335b5983bb51b14c8562152
+2021-10-19 08:38:34,872 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52726}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e855a59f8b637622614f16577326506
+2021-10-19 08:38:35,090 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 401). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:55603}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3e0f179a7cf66b4052d944a661de6db
+2021-10-19 08:38:43,392 ERROR class ~ Date Selected
+2021-10-19 08:38:43,392 FATAL class ~ Date Selected -fatal
+2021-10-19 08:38:43,392 WARN  class ~ Date Selected -warning
+2021-10-19 08:38:43,678 ERROR class ~ Date Selected
+2021-10-19 08:38:43,679 FATAL class ~ Date Selected -fatal
+2021-10-19 08:38:43,679 WARN  class ~ Date Selected -warning
+2021-10-19 08:39:06,284 ERROR class ~ Date Selected
+2021-10-19 08:39:06,284 FATAL class ~ Date Selected -fatal
+2021-10-19 08:39:06,284 WARN  class ~ Date Selected -warning
+2021-10-19 08:39:07,152 ERROR class ~ Date Selected
+2021-10-19 08:39:07,153 FATAL class ~ Date Selected -fatal
+2021-10-19 08:39:07,153 WARN  class ~ Date Selected -warning
+2021-10-19 08:44:56,743 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:44:59,764 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:45:02,783 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:11,029 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64586}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85d7d98b6a29f17cbf37f86a9f4b6888
+2021-10-19 08:47:11,581 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53826}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d177d8cfdbef21c5afc9d2c965db685f
+2021-10-19 08:47:20,034 ERROR class ~ Date Selected
+2021-10-19 08:47:20,034 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:20,034 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:20,752 ERROR class ~ Date Selected
+2021-10-19 08:47:20,752 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:20,752 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:39,029 ERROR class ~ Date Selected
+2021-10-19 08:47:39,029 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:39,030 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:41,054 ERROR class ~ Date Selected
+2021-10-19 08:47:41,054 FATAL class ~ Date Selected -fatal
+2021-10-19 08:47:41,054 WARN  class ~ Date Selected -warning
+2021-10-19 08:47:52,497 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:55,515 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:47:58,523 ERROR class ~ unable to execute the test casejava.lang.NullPointerException
+2021-10-19 08:57:37,742 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 82f0e8775ef1182b6333a18c47a68d16
+2021-10-19 08:57:46,513 ERROR class ~ Date Selected
+2021-10-19 08:57:46,513 FATAL class ~ Date Selected -fatal
+2021-10-19 08:57:46,513 WARN  class ~ Date Selected -warning
+2021-10-19 08:58:05,799 ERROR class ~ Date Selected
+2021-10-19 08:58:05,799 FATAL class ~ Date Selected -fatal
+2021-10-19 08:58:05,799 WARN  class ~ Date Selected -warning
+2021-10-19 08:59:17,618 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:55639}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6733a7ece26f4047eb937fdb4ce9acb8
+2021-10-19 08:59:26,610 ERROR class ~ Date Selected
+2021-10-19 08:59:26,610 FATAL class ~ Date Selected -fatal
+2021-10-19 08:59:26,610 WARN  class ~ Date Selected -warning
+2021-10-19 08:59:46,282 ERROR class ~ Date Selected
+2021-10-19 08:59:46,282 FATAL class ~ Date Selected -fatal
+2021-10-19 08:59:46,282 WARN  class ~ Date Selected -warning
+2021-10-19 09:02:50,844 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2c28e62e9d3130dcb7de07d13134d96
+2021-10-19 09:02:50,908 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 408). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.0.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:62031}, msedge: {msedgedriverVersion: 93.0.967.0 (9039a7f15ab8838..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 919da6890c5047ff09f4ca441d3dc20a
+2021-10-19 09:03:00,243 ERROR class ~ Date Selected
+2021-10-19 09:03:00,243 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:00,243 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:00,363 ERROR class ~ Date Selected
+2021-10-19 09:03:00,364 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:00,364 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:19,497 ERROR class ~ Date Selected
+2021-10-19 09:03:19,497 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:19,497 WARN  class ~ Date Selected -warning
+2021-10-19 09:03:21,351 ERROR class ~ Date Selected
+2021-10-19 09:03:21,351 FATAL class ~ Date Selected -fatal
+2021-10-19 09:03:21,351 WARN  class ~ Date Selected -warning
+2021-10-21 23:21:50,416 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 404). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58508}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0fd3c703efc7f6c63f4ee5a3639a1f7e
+2021-10-21 23:21:50,467 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:52142}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cee84eb53c4836782976b780c808bed
+2021-10-21 23:22:00,036 ERROR class ~ Date Selected
+2021-10-21 23:22:00,036 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:00,036 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:00,195 ERROR class ~ Date Selected
+2021-10-21 23:22:00,195 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:00,195 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:18,016 ERROR class ~ Date Selected
+2021-10-21 23:22:18,016 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:18,016 WARN  class ~ Date Selected -warning
+2021-10-21 23:22:18,466 ERROR class ~ Date Selected
+2021-10-21 23:22:18,466 FATAL class ~ Date Selected -fatal
+2021-10-21 23:22:18,466 WARN  class ~ Date Selected -warning
+2021-10-21 23:25:17,675 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53538}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b2788da747ec8a76961b00b2e1c23fb
+2021-10-21 23:25:28,981 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="pushRight font14 lightGreyText latoBold">...</div> is not clickable at point (456, 547). Other element would receive the click: <div class="langCard  fixedCard bounceAni">...</div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56113}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dd1cf98111d943a854288353a6bdbd8e
+2021-10-21 23:25:44,098 ERROR class ~ Date Selected
+2021-10-21 23:25:44,098 FATAL class ~ Date Selected -fatal
+2021-10-21 23:25:44,098 WARN  class ~ Date Selected -warning
+2021-10-21 23:27:06,382 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 409). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bee3215888984df25f15d2cbaf6f188f
+2021-10-21 23:27:09,383 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53675}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f7c400209aa100bf9b070dac65841b16
+2021-10-21 23:27:16,164 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="pushRight font14 lightGreyText latoBold">...</div> is not clickable at point (456, 547). Other element would receive the click: <div class="langCard  fixedCard bounceAni">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61156}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 93f833831e741a110a71c5e74416b080
+2021-10-21 23:28:13,002 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c24978ac4fee44de322a4d1630814ad0
+2021-10-21 23:28:13,422 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 401). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58593}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9380761bd1e9a9191f9f5611270eb1dd
+2021-10-21 23:28:21,997 ERROR class ~ Date Selected
+2021-10-21 23:28:21,998 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:21,998 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:22,388 ERROR class ~ Date Selected
+2021-10-21 23:28:22,388 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:22,388 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:41,738 ERROR class ~ Date Selected
+2021-10-21 23:28:41,738 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:41,738 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:42,349 ERROR class ~ Date Selected
+2021-10-21 23:28:42,349 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:42,349 WARN  class ~ Date Selected -warning
+2021-10-21 23:28:43,483 ERROR class ~ Date Selected
+2021-10-21 23:28:43,484 FATAL class ~ Date Selected -fatal
+2021-10-21 23:28:43,484 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:18,122 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (600, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61455}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8fd7345cc4367a2cda3022997393e3a
+2021-10-21 23:30:19,423 ERROR class ~ unable to execute the test caseorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="primaryBtn font24 latoBold widget...Btn ">Search</a> is not clickable at point (759, 410). Other element would receive the click: <div class="hsBackDrop"></div>
+  (Session info: MicrosoftEdge=94.0.992.50)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 94.0.992.50, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:59186}, msedge: {msedgedriverVersion: 94.0.992.50 (80a49a71b4e2d0..., userDataDir: C:\Users\SATHIS~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ccea4766a996d54ee71aeae7056dc7c4
+2021-10-21 23:30:26,881 ERROR class ~ Date Selected
+2021-10-21 23:30:26,882 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:26,882 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:29,073 ERROR class ~ Date Selected
+2021-10-21 23:30:29,073 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:29,073 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:44,675 ERROR class ~ Date Selected
+2021-10-21 23:30:44,675 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:44,675 WARN  class ~ Date Selected -warning
+2021-10-21 23:30:47,237 ERROR class ~ Date Selected
+2021-10-21 23:30:47,237 FATAL class ~ Date Selected -fatal
+2021-10-21 23:30:47,237 WARN  class ~ Date Selected -warning
