@@ -29,67 +29,8 @@ public class FlightsearchTestcase extends Browserdriver
 	@Test(priority=0,dataProvider = "flightsearch" , dataProviderClass=dataproviderclass.class)
 	public void validsearch(String fromlist,String Tolist,String date,String retundate)
 	{
-		
-		try
-		{
-		System.out.println(fromlist +";"+ Tolist +";"+date);
-		System.out.println(getdriver());
-		Flightsearch f= new Flightsearch(getdriver());
-		f.fromlist(fromlist);
-		logger.info("From list is clikced andpassed in tes case step");
-		f.Tolist(Tolist);
-		logger.info("To list is clikced andpassed in tes case step");
-		f.depaturedate(date);
-		logger.info("Date is clikced and passed in tes case step");
-		//f.returndate( retundate);
-		f.searchbutton();
-		String scrnshotpath=commonsclass.takescreenshot(getdriver());
-		getdriver().navigate().back();
-		test.log(LogStatus.PASS,Browser_Name,test.addScreenCapture(scrnshotpath));
-		String outcomettile=getdriver().getTitle();
-		System.out.println(outcomettile);
-		Assert.assertEquals("MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday", outcomettile,"This is invalid value");
-		}
-		catch(Exception e)
-		{
-			String scrnshotpath=commonsclass.takescreenshot(getdriver());
-			//driver.navigate().back();
-			test.log(LogStatus.FAIL,Browser_Name,test.addScreenCapture(scrnshotpath));
-			logger.error("unable to execute the test case" +e);
-		}
-			
+	System.out.println("Test case ");	
 	}
-	
-
-	//@Test(priority=1,dataProvider = "flightsearch" , dataProviderClass=dataproviderclass.class)
-/*	public void validsearch_testcase2(String fromlist,String Tolist,String date,String retundate)
-	{
-		try
-		{
-		System.out.println(fromlist +";"+ Tolist +";"+date);
-		Flightsearch f= new Flightsearch(driver);
-		f.fromlist(fromlist);
-		logger.info("From list is clikced andpassed in tes case step");
-		f.Tolist(Tolist);
-		logger.info("To list is clikced andpassed in tes case step");
-		f.depaturedate(date);
-		logger.info("Date is clikced and passed in tes case step");
-		//f.returndate( retundate);
-		f.searchbutton();
-		String scrnshotpath=commonsclass.takescreenshot(driver);
-		driver.navigate().back();
-		test.log(LogStatus.PASS,Browser_Name,test.addScreenCapture(scrnshotpath));
-		String outcomettile=driver.getTitle();
-		System.out.println(outcomettile);
-		Assert.assertEquals("MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday", outcomettile,"This is invalid value");
-		}
-		catch(Exception e)
-		{
-			test.log(LogStatus.FAIL,Browser_Name, e);
-			logger.error("unable to execute the test case" +e);
-		}
-			
-	}*/
 	
 	
 	

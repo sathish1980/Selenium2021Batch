@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
-  <test name="Test2(failed)" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test name="Test2(failed)" parallel="methods">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Testcase.secondclass">
-        <methods>
-          <include name="launch"/>
-          <include name="launchurl"/>
-          <include name="validsearch_class2" invocation-numbers="2"/>
-        </methods>
-      </class> <!-- Testcase.secondclass -->
       <class name="Testcase.FlightsearchTestcase">
         <methods>
+          <include name="validsearch" invocation-numbers="0 1 2"/>
+          <include name="launch"/>
           <include name="launchurl"/>
+          <include name="launchurl"/>
+          <include name="teardonw"/>
+          <include name="tear"/>
           <include name="tear"/>
         </methods>
       </class> <!-- Testcase.FlightsearchTestcase -->
     </classes>
   </test> <!-- Test2(failed) -->
-  <test name="Test(failed)" parallel="tests">
+  <test name="Test3(failed)" parallel="methods">
     <parameter name="browser" value="edge"/>
     <classes>
-      <class name="Testcase.secondclass">
-        <methods>
-          <include name="launch"/>
-          <include name="launchurl"/>
-        </methods>
-      </class> <!-- Testcase.secondclass -->
       <class name="Testcase.FlightsearchTestcase">
         <methods>
-          <include name="validsearch" invocation-numbers="1"/>
+          <include name="validsearch" invocation-numbers="0 1 2"/>
+          <include name="launch"/>
           <include name="launchurl"/>
+          <include name="launchurl"/>
+          <include name="teardonw"/>
+          <include name="tear"/>
           <include name="tear"/>
         </methods>
       </class> <!-- Testcase.FlightsearchTestcase -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test3(failed) -->
 </suite> <!-- Failed suite [Suite] -->

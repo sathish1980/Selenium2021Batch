@@ -16,6 +16,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
+import com.github.dockerjava.api.model.Driver;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 
@@ -25,7 +26,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Browserdriver 
 {
 
-	public  ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
+	public WebDriver driver ;
 	public static ExtentReports report;
 	public static ExtentTest test;
 	static String reportpath= System.getProperty("user.dir")+"\\Reports\\";
@@ -33,17 +34,7 @@ public class Browserdriver
 	public String Browser_Name = null;
 	public String Browser_Version = null ;
 	
-	public void setdriver(WebDriver driver)
-	{
-		this.driver.set(driver);
-	}
-	
-	public WebDriver getdriver()
-	{
-		return this.driver.get();
-	}
-	
-	
+
 	public static void extreport()
 	{
 		report = new ExtentReports(reportpath+"extenreport.html",true);
@@ -69,12 +60,13 @@ public class Browserdriver
 		WebDriverManager.chromedriver().setup();
 		logger.info("after launch");
 		
-		//ChromeOptions c=new ChromeOptions();
-		//c.addArguments("--disable-notifications");
-		setdriver(new ChromeDriver());
-		/*Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
+		ChromeOptions c=new ChromeOptions();
+		c.addArguments("--disable-notifications");
+		
+		Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
 		 Browser_Name = cap.getBrowserName();
-		 Browser_Version = cap.getVersion();*/
+		 Browser_Version = cap.getVersion();
+		 maximize();
 		logger.debug("browser intialize");
 		logger.info("info log");
 		}
@@ -83,7 +75,7 @@ public class Browserdriver
 			//System.setProperty("webdriver.edge.driver", 
 				//	"D:\\Software\\edgedriver_win64_93\\msedgedriver.exe");
 			WebDriverManager.edgedriver().setup();
-			setdriver( new EdgeDriver());
+			//setdriver( new EdgeDriver());
 			maximize();
 		/*	Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
 			 Browser_Name = cap.getBrowserName();
@@ -100,7 +92,7 @@ public class Browserdriver
 	
 	public void maximize()
 	{
-		getdriver().manage().window().maximize();
+		driver.manage().window().maximize();
 	}
 	
 	@Parameters("browser")
@@ -108,7 +100,7 @@ public class Browserdriver
 	public void launchurl(String browser)
 	{
 		browserselection(browser);
-		getdriver().get(urldata());
+		driver.get(urldata());
 		
 	}
 	
@@ -116,7 +108,7 @@ public class Browserdriver
 	@AfterTest
 	public void tear()
 	{
-		getdriver().quit();	
+		driver.quit();	
 	}
 	
 	@BeforeSuite
@@ -129,6 +121,6 @@ public class Browserdriver
 	public void teardonw()
 	{
 		reportclose();
-		//getdriver().quit();
+		
 	}
 }

@@ -2,16 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56631" started-at="2021-10-21T17:59:59Z" finished-at="2021-10-21T18:00:55Z">
+  <suite name="Suite" duration-ms="39325" started-at="2021-12-29T07:57:52Z" finished-at="2021-12-29T07:58:31Z">
     <groups>
     </groups>
-    <test name="Test2" duration-ms="52861" started-at="2021-10-21T17:59:59Z" finished-at="2021-10-21T18:00:51Z">
-      <class name="Testcase.secondclass">
-        <test-method status="PASS" signature="launch()[pri:0, instance:Testcase.secondclass@6d763516]" name="launch" is-config="true" duration-ms="109" started-at="2021-10-21T23:29:58Z" finished-at="2021-10-21T23:29:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method status="PASS" signature="launchurl(java.lang.String)[pri:0, instance:Testcase.secondclass@6d763516]" name="launchurl" is-config="true" duration-ms="6083" started-at="2021-10-21T23:29:59Z" finished-at="2021-10-21T23:30:05Z">
+    <test name="Test2" duration-ms="38275" started-at="2021-12-29T07:57:52Z" finished-at="2021-12-29T07:58:30Z">
+      <class name="Testcase.FlightsearchTestcase">
+        <test-method status="PASS" signature="launchurl(java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2c767a52]" name="launchurl" is-config="true" duration-ms="8785" started-at="2021-12-29T13:27:52Z" finished-at="2021-12-29T13:28:01Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchurl -->
-        <test-method status="PASS" signature="validsearch_class2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.secondclass@6d763516]" name="validsearch_class2" duration-ms="12461" started-at="2021-10-21T23:30:05Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:18Z">
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2c767a52]" name="validsearch" duration-ms="9002" started-at="2021-12-29T13:28:01Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:10Z">
           <params>
             <param index="0">
               <value>
@@ -36,19 +32,19 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/15/21]]>
+                <![CDATA[12/23/21]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[10/17/21]]>
+                <![CDATA[10/23/21]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validsearch_class2 -->
-        <test-method status="PASS" signature="validsearch_class2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.secondclass@6d763516]" name="validsearch_class2" duration-ms="17930" started-at="2021-10-21T23:30:18Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:36Z">
+        </test-method> <!-- validsearch -->
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2c767a52]" name="validsearch" duration-ms="10199" started-at="2021-12-29T13:28:10Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:20Z">
           <params>
             <param index="0">
               <value>
@@ -57,24 +53,24 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[SFO]]>
+                <![CDATA[DEL]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/21/21]]>
+                <![CDATA[12/26/21]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[10/24/21]]>
+                <![CDATA[10/25/21]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validsearch_class2 -->
-        <test-method status="PASS" signature="validsearch_class2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.secondclass@6d763516]" name="validsearch_class2" duration-ms="15010" started-at="2021-10-21T23:30:36Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:51Z">
+        </test-method> <!-- validsearch -->
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2c767a52]" name="validsearch" duration-ms="9593" started-at="2021-12-29T13:28:20Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:29Z">
           <params>
             <param index="0">
               <value>
@@ -88,7 +84,7 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/25/21]]>
+                <![CDATA[12/27/21]]>
               </value>
             </param>
             <param index="3">
@@ -99,20 +95,20 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validsearch_class2 -->
-        <test-method status="PASS" signature="tear()[pri:0, instance:Testcase.secondclass@6d763516]" name="tear" is-config="true" duration-ms="862" started-at="2021-10-21T23:30:51Z" finished-at="2021-10-21T23:30:51Z">
+        </test-method> <!-- validsearch -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:Testcase.FlightsearchTestcase@2c767a52]" name="tear" is-config="true" duration-ms="670" started-at="2021-12-29T13:28:29Z" finished-at="2021-12-29T13:28:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear -->
-        <test-method status="PASS" signature="teardonw()[pri:0, instance:Testcase.secondclass@6d763516]" name="teardonw" is-config="true" duration-ms="278" started-at="2021-10-21T23:30:55Z" finished-at="2021-10-21T23:30:55Z">
+      </class> <!-- Testcase.FlightsearchTestcase -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="39325" started-at="2021-12-29T07:57:52Z" finished-at="2021-12-29T07:58:31Z">
+      <class name="Testcase.FlightsearchTestcase">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="launch" is-config="true" duration-ms="188" started-at="2021-12-29T13:27:52Z" finished-at="2021-12-29T13:27:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- teardonw -->
-      </class> <!-- Testcase.secondclass -->
-    </test> <!-- Test2 -->
-    <test name="Test" duration-ms="56631" started-at="2021-10-21T17:59:59Z" finished-at="2021-10-21T18:00:55Z">
-      <class name="Testcase.FlightsearchTestcase">
-        <test-method status="PASS" signature="launchurl(java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2e005c4b]" name="launchurl" is-config="true" duration-ms="7689" started-at="2021-10-21T23:29:59Z" finished-at="2021-10-21T23:30:06Z">
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="launchurl(java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="launchurl" is-config="true" duration-ms="7776" started-at="2021-12-29T13:27:52Z" finished-at="2021-12-29T13:28:00Z">
           <params>
             <param index="0">
               <value>
@@ -123,7 +119,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchurl -->
-        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2e005c4b]" name="validsearch" duration-ms="12651" started-at="2021-10-21T23:30:06Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:19Z">
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="validsearch" duration-ms="9362" started-at="2021-12-29T13:28:00Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:09Z">
           <params>
             <param index="0">
               <value>
@@ -137,19 +133,19 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/15/21]]>
+                <![CDATA[12/23/21]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[10/17/21]]>
+                <![CDATA[10/23/21]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validsearch -->
-        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2e005c4b]" name="validsearch" duration-ms="18989" started-at="2021-10-21T23:30:19Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:38Z">
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="validsearch" duration-ms="10519" started-at="2021-12-29T13:28:09Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:20Z">
           <params>
             <param index="0">
               <value>
@@ -158,24 +154,24 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[SFO]]>
+                <![CDATA[DEL]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/21/21]]>
+                <![CDATA[12/26/21]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[10/24/21]]>
+                <![CDATA[10/25/21]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validsearch -->
-        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@2e005c4b]" name="validsearch" duration-ms="15827" started-at="2021-10-21T23:30:38Z" data-provider="flightsearch" finished-at="2021-10-21T23:30:54Z">
+        <test-method status="PASS" signature="validsearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="validsearch" duration-ms="10341" started-at="2021-12-29T13:28:20Z" data-provider="flightsearch" finished-at="2021-12-29T13:28:30Z">
           <params>
             <param index="0">
               <value>
@@ -189,7 +185,7 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[10/25/21]]>
+                <![CDATA[12/27/21]]>
               </value>
             </param>
             <param index="3">
@@ -201,11 +197,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validsearch -->
-        <test-method status="PASS" signature="tear()[pri:0, instance:Testcase.FlightsearchTestcase@2e005c4b]" name="tear" is-config="true" duration-ms="1460" started-at="2021-10-21T23:30:54Z" finished-at="2021-10-21T23:30:55Z">
+        <test-method status="PASS" signature="tear()[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="tear" is-config="true" duration-ms="860" started-at="2021-12-29T13:28:30Z" finished-at="2021-12-29T13:28:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear -->
+        <test-method status="PASS" signature="teardonw()[pri:0, instance:Testcase.FlightsearchTestcase@1afd44cb]" name="teardonw" is-config="true" duration-ms="235" started-at="2021-12-29T13:28:31Z" finished-at="2021-12-29T13:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardonw -->
       </class> <!-- Testcase.FlightsearchTestcase -->
-    </test> <!-- Test -->
+    </test> <!-- Test3 -->
   </suite> <!-- Suite -->
 </testng-results>

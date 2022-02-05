@@ -1,6 +1,8 @@
-Pages\SearchlistPage.class
+Testcase\secondclass.class
 Commonmethods\commonsclass.class
 Testcase\dataproviderclass.class
+Testcase\beforeannotations.class
+Pages\SearchlistPage.class
 Background\Browserdriver.class
 Testcase\FlightsearchTestcase.class
 Pages\Flightsearch.class
